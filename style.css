@@ -1,0 +1,27 @@
+/*
+ *Name: [First Last]
+ *UnityID: [unityID]
+ *Date: [Date Completed]
+ *Assignment: [Assignment Name]
+ *Description: [Assignment Description]
+ */
+ 
+p {
+    font-family: Times ;
+    font-size: 16px ;
+    color: #000000 ;
+}
+
+#photo-resize {
+    max-width: 200px ;
+    max-height: 250px ;
+}
+
+.table-border {
+    border:  1px solid #000000 ;
+}
+
+.photo-border {
+    border: 2px solid #808080
+    border-style: outset
+}
